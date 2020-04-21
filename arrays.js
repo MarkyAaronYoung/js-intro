@@ -10,10 +10,7 @@ const valueFinder =(arr, idx) => {
 };
 
 console.log(valueFinder(coolArray, 1));
-console.log([1,2,3,4,5], 0));
 
-
-const isLuna
 
 const isLuna = (arr) => {
   return arr.includes('Luna');
