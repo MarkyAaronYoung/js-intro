@@ -23,8 +23,8 @@ const numb42 = (number) => {
 
 console.log(numb42(12));
 
-const futureAge = (number) => {
-  return 2099 - number;
+const futureAge = (birthYear) => {
+  return 2099 - birthYear;
 }
 
 console.log(futureAge(1982));
